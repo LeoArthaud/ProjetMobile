@@ -1,0 +1,8 @@
+{
+  "name": "event-manager",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}

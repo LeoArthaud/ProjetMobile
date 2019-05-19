@@ -1,0 +1,7 @@
+{
+  "appId": "com.javebratt.eventManager",
+  "appName": "event-manager",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "windowsAndroidStudioPath": "C:\\Users\\leoar\\AppData\\Local\\JetBrains\\Toolbox\\apps\\AndroidStudio\\ch-0\\183.5452501\\bin\\studio64.exe"
+}
